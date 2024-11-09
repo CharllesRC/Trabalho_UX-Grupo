@@ -1,5 +1,7 @@
 * {
     margin: 0;
     background-color: red;
-    flex-direction: column;
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: space-between;
 }
